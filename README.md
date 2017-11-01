@@ -10,7 +10,7 @@ $ node index.js [project_id] [start_project_id] [end_project_id] [time]
 
 ## Contributing
 
-If you want to help, please read the [Contributing](https://github.com/brenopolanski/get-udacity-projects/blob/master/.github/CONTRIBUTING.md) guide.
+If you want to help, please read the [Contributing](https://github.com/brenopolanski/get-udacity-projects/blob/master/CONTRIBUTING.md) guide.
 
 ## History
 
