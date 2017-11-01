@@ -1,0 +1,33 @@
+{
+  "name": "get-udacity-projects",
+  "description": "Udacity get projects by id",
+  "homepage": "https://github.com/brenopolanski/get-udacity-projects#readme",
+  "version": "1.0.0",
+  "author": {
+    "name": "Breno Polanski",
+    "email": "breno.polanski@gmail.com",
+    "web": "http://brenopolanski.com",
+    "twitter": "@brenopolanski"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenopolanski/get-udacity-projects.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "udacity",
+    "udacity-reviews",
+    "cli",
+    "command-line",
+    "nodejs",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/brenopolanski/get-udacity-projects/issues"
+  },
+  "dependencies": {
+    "got": "^7.1.0",
+    "ora": "^1.3.0"
+  }
+}
